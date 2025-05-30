@@ -7,6 +7,7 @@ Apps
 | Agenda                          | ❌     | https://apps.apple.com/en/app/agenda-notes-meets-calendar/id1287445660                | MAS in-app purchase, repacking issues, partial unlock |
 | Alfred                          |        | https://www.alfredapp.com/                                                            |                                                       |
 | Aperty                          | ✅     | https://apps.apple.com/en/app/aperty-pro-portrait-editor/id6720751010                 |                                                       |
+| Archimedes                      | ✅     | https://furnacecreek.org/archimedes/                                                  |                                                       |
 | Arclite Pro                     | ✅     | https://etheriar.com/arclite-pro                                                      |                                                       |
 | aText                           | ✳️   | https://www.trankynam.com/atext/                                                      | .NET + Dotfuscator                                    |
 | AutoCAD                         | ✅     | https://www.autodesk.com/products/autocad/overview                                    |                                                       |
@@ -42,6 +43,8 @@ Apps
 | Leech                           | ✅     | https://manytricks.com/leech/                                                         |                                                       |
 | Ligon X                         |        | https://www.peterborgapps.com/lingon/                                                 |                                                       |
 | Lumariver Profile Designer 2    | ✅     | https://lumariver.com                                                                 |                                                       |
+| MarginNote 4                    | ✅     | https://www.marginnote.com                                                            |                                                       |
+| Marked 2                        | ✅     | https://marked2app.com                                                                |                                                       |
 | Master PDF Editor               | ✅     | https://code-industry.net/                                                            |                                                       |
 | Menuwhere                       | 💭    | https://manytricks.com/menuwhere/                                                     |                                                       |
 | MindMac                         | ✅     | https://mindmac.app/                                                                  |                                                       |
@@ -60,7 +63,9 @@ Apps
 | Pano2VR                         |        | https://ggnome.com/pano2vr-download/                                                  | not fully bypassed..                                  |
 | Paragraphic                     | ✅     | https://paragraphic.design/                                                           |                                                       |
 | Permute                         | ✅     | https://software.charliemonroe.net/permute/                                           |                                                       |
+| PhotoZoom Pro 9                 |        | https://www.benvista.com/photozoompro                                                 |                                                       |
 | Pinegrow                        | ✅     | https://pinegrow.com                                                                  |                                                       |
+| Pixen                           | ✅     | https://pixenapp.com                                                                  |                                                       |
 | Plasticity                      | ❌     | https://www.plasticity.xyz/                                                           | compiled JavaScript files                             |
 | PopClip                         | ✅     | https://www.popclip.app/                                                              |                                                       |
 | Posterino                       |        | https://apps.apple.com/us/app/posterino-pro-photo-collage/id1568451594                |                                                       |
