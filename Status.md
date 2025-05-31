@@ -65,10 +65,11 @@ Apps
 | Permute                         | ✅     | https://software.charliemonroe.net/permute/                                           |                                                       |
 | PhotoZoom Pro 9                 |        | https://www.benvista.com/photozoompro                                                 |                                                       |
 | Pinegrow                        | ✅     | https://pinegrow.com                                                                  |                                                       |
+| Pieoneer                        | ❌     | https://appahead.studio/apps/pieoneer/                                                | MAS purchase, https://github.com/4qzs/4qzs/issues/2   |
 | Pixen                           | ✅     | https://pixenapp.com                                                                  |                                                       |
 | Plasticity                      | ❌     | https://www.plasticity.xyz/                                                           | compiled JavaScript files                             |
 | PopClip                         | ✅     | https://www.popclip.app/                                                              |                                                       |
-| Posterino                       |        | https://apps.apple.com/us/app/posterino-pro-photo-collage/id1568451594                |                                                       |
+| Posterino                       |        | https://apps.apple.com/us/app/posterino-pro-photo-collage/id1568451594                | RevenueCat                                            |
 | Promptly                        | ✅     | https://getpromptly.app/                                                              |                                                       |
 | PTGui                           |        | https://ptgui.com/info/stitching_software_for_macos.html                              |                                                       |
 | PureRawv                        |        | https://shop.dxo.com/en/dxo-pureraw-5.html                                            |                                                       |
@@ -90,6 +91,7 @@ Apps
 | Stay                            |        | https://cordlessdog.com/stay/                                                         |                                                       |
 | Storyspace                      | ✅     | https://www.eastgate.com/storyspace/                                                  |                                                       |
 | Strongbox                       | ✅     | https://strongboxsafe.com/                                                            | Issue with repacking                                  |
+| Substage                        |        | https://selkie.design/substage/                                                       | https://github.com/4qzs/4qzs/issues/1                 |
 | Syphon                          |        | https://roeybiran.com/apps/syphon/                                                    | gumroad license server check                          |
 | Termius                         | ✅     | https://termius.com/                                                                  |                                                       |
 | Tinderbox                       | ✅     | https://eastgate.com/Tinderbox/                                                       |                                                       |
