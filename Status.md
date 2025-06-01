@@ -30,9 +30,11 @@ Apps
 | FileBot                         |        | https://www.filebot.net/download.html                                                 | Java, don't know how to patch (already decrypted)     |
 | FileUtils                       | 💭    | https://fileutils.com                                                                 | Finder permissions issue                              |
 | Findbar                         |        | https://roeybiran.com/apps/finbar/                                                    | gumroad license server check                          |
+| Folder Preview                  | ❌     | https://apps.apple.com/us/app/folder-preview/id6698876601                             | Issue with repacking                                  |
 | Framous                         |        | https://apps.apple.com/us/app/framous-screenshot-frames/id6636520519                  | RevenueCat                                            |
 | Gamma Control                   | ✅     | https://michelf.ca/projects/gamma-control/                                            |                                                       |
 | Goodnotes 6                     | ❌     | https://apps.apple.com/en/app/goodnotes-6/id1444383602                                |                                                       |
+| Happy Wallpaper                 | ✅     | https://apps.apple.com/us/app/paper-live-wallpapers/id1518518216                      |                                                       |
 | Hazel                           | 💭    | https://www.noodlesoft.com/manual/hazel/hazel-overview/                               | Partial                                               |
 | Hopper Disassembler             |        | https://www.hopperapp.com/                                                            |                                                       |
 | HoudahGeo                       | ✅     | https://www.houdah.com/houdahGeo/                                                     |                                                       |
@@ -42,6 +44,7 @@ Apps
 | Keymou                          | 💭    | https://manytricks.com/keymou/                                                        |                                                       |
 | Leech                           | ✅     | https://manytricks.com/leech/                                                         |                                                       |
 | Ligon X                         |        | https://www.peterborgapps.com/lingon/                                                 |                                                       |
+| Live Wallpaper                  | ✅     | https://apps.apple.com/us/app/live-wallpaper-4k-uhd/id1456235760                      |                                                       |
 | Lumariver Profile Designer 2    | ✅     | https://lumariver.com                                                                 |                                                       |
 | MarginNote 4                    | ✅     | https://www.marginnote.com                                                            |                                                       |
 | Marked 2                        | ✅     | https://marked2app.com                                                                |                                                       |
