@@ -87,7 +87,9 @@ Apps
 | Screenshot Studio               |        | https://appstorescreenshotstudio.com/                                                 |                                                       |
 | SecuritySpy 6                   |        | https://bensoftware.com/securityspy/download.html                                     |                                                       |
 | Shotomatic                      | ✅     | https://www.shotomatic.com                                                            |                                                       |
+| Sidebar                         | ✳️   | https://sidebarapp.net                                                                | Alamofire network lib, doesn't use completion handler |
 | Sim Daltonism                   | 💭    | https://michelf.ca/projects/sim-daltonism/                                            |                                                       |
+| Sparkle                         | ❌     | https://makeitsparkle.co/                                                             | RevenueCat + account + Stripe                         |
 | Stay                            |        | https://cordlessdog.com/stay/                                                         |                                                       |
 | Storyspace                      | ✅     | https://www.eastgate.com/storyspace/                                                  |                                                       |
 | Strongbox                       | ✅     | https://strongboxsafe.com/                                                            | Issue with repacking                                  |
