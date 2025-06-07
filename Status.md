@@ -2,11 +2,14 @@ Apps
 
 | App Name                        | Status | Website                                                                               | Comment                                               |
 | ------------------------------- | ------ | ------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| 4K Video Downloader+            | ✅     | https://www.4kdownload.com/buy/videodownloader-8                                      |                                                       |
+| 4K YouTube to MP3               | ✅     | https://www.4kdownload.com/products/youtubetomp3-72                                   |                                                       |
 | Access                          | ❌     | https://apps.apple.com/en/app/access-passwords-companion/id6469049274                 | MAS in-app purchase                                   |
 | Aeon Timeline                   | ✅     | https://www.aeontimeline.com                                                          |                                                       |
 | Agenda                          | ❌     | https://apps.apple.com/en/app/agenda-notes-meets-calendar/id1287445660                | MAS in-app purchase, repacking issues, partial unlock |
 | Alfred                          |        | https://www.alfredapp.com/                                                            |                                                       |
 | Aperty                          | ✅     | https://apps.apple.com/en/app/aperty-pro-portrait-editor/id6720751010                 |                                                       |
+| App Cleaner                     | ✅     | https://nektony.com/mac-app-cleaner                                                   |                                                       |
 | Archimedes                      | ✅     | https://furnacecreek.org/archimedes/                                                  |                                                       |
 | Arclite Pro                     | ✅     | https://etheriar.com/arclite-pro                                                      |                                                       |
 | aText                           | ✳️   | https://www.trankynam.com/atext/                                                      | .NET + Dotfuscator                                    |
@@ -29,6 +32,7 @@ Apps
 | EpubKit                         | ✅     | https://epubkit.app/                                                                  |                                                       |
 | FileBot                         |        | https://www.filebot.net/download.html                                                 | Java, don't know how to patch (already decrypted)     |
 | FileUtils                       | 💭    | https://fileutils.com                                                                 | Finder permissions issue                              |
+| Final Draft 13                  | ✅     | https://www.finaldraft.com/                                                           |                                                       |
 | Findbar                         |        | https://roeybiran.com/apps/finbar/                                                    | gumroad license server check                          |
 | Folder Preview                  | ❌     | https://apps.apple.com/us/app/folder-preview/id6698876601                             | Issue with repacking                                  |
 | Framous                         |        | https://apps.apple.com/us/app/framous-screenshot-frames/id6636520519                  | RevenueCat                                            |
@@ -39,6 +43,7 @@ Apps
 | Hopper Disassembler             |        | https://www.hopperapp.com/                                                            |                                                       |
 | HoudahGeo                       | ✅     | https://www.houdah.com/houdahGeo/                                                     |                                                       |
 | Infuse                          | ✅     | https://apps.apple.com/en/app/infuse/id1136220934                                     | MAS in-app                                            |
+| Kaleidoscope                    | ✅     | https://kaleidoscope.app/                                                             |                                                       |
 | Kerlig                          | ✅     | https://www.kerlig.com/                                                               |                                                       |
 | KeyKeeper                       | 💭    | https://bundlehunt.com/deal/keykeeper                                                 | license server check                                  |
 | Keymou                          | 💭    | https://manytricks.com/keymou/                                                        |                                                       |
@@ -62,6 +67,7 @@ Apps
 | One Markdown                    | ✅     | https://macserialjunkie.com/forum/viewtopic.php?p=1240588&hilit=One+Markdown#p1240588 |                                                       |
 | OpenIn 4                        |        | https://loshadki.app/openin4/                                                         | lemonsqueezy license server check                     |
 | Optimage                        | ❌     | https://optimage.app                                                                  |                                                       |
+| Package Builder                 | ✅     | https://www.araelium.com/packagebuilder/                                              |                                                       |
 | Paddle                          | ✅     | https://www.paddle.com/                                                               |                                                       |
 | Pano2VR                         |        | https://ggnome.com/pano2vr-download/                                                  | not fully bypassed..                                  |
 | Paragraphic                     | ✅     | https://paragraphic.design/                                                           |                                                       |
@@ -104,6 +110,7 @@ Apps
 | Transmit                        | ✅     | https://panic.com/transmit/                                                           |                                                       |
 | Two Point Museum                | 💢    | https://store.steampowered.com/app/2185060/Two_Point_Museum/                          | steam app                                             |
 | Usher                           | 💭    | https://manytricks.com/usher/                                                         |                                                       |
+| Vellum                          | ✅     | https://vellum.pub                                                                    |                                                       |
 | VRAMPro                         | ✅     | https://vrampro.com                                                                   |                                                       |
 | Wipr 2                          | ✅     | https://kaylees.site/wipr2.html                                                       |                                                       |
 | Witch                           | 💭    | https://manytricks.com/witch/                                                         |                                                       |
