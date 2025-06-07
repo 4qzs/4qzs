@@ -21,3 +21,7 @@ You can check the current status of supported applications in the [Status.md](./
 
 - [MacNeed.ir](https://macneed.ir)
 - [MacBed.com](http://www.macbed.com)
+- [Insmac.org](https://insmac.org/)
+- [Tormac.org](https://tormac.org/)
+- [Macxzb.com](https://macxzb.com/)
+- [Macoshome.com](https://macoshome.com/)
