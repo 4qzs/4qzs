@@ -14,6 +14,7 @@ Apps
 | Arclite Pro                     | ✅     | https://etheriar.com/arclite-pro                                                      |                                                       |
 | aText                           | ✳️   | https://www.trankynam.com/atext/                                                      | .NET + Dotfuscator                                    |
 | AutoCAD                         | ✅     | https://www.autodesk.com/products/autocad/overview                                    |                                                       |
+| Bartender5                      | ✅     | https://href.li/?https://www.macbartender.com/Bartender5/                             |                                                       |
 | Bear                            | ✅     | https://apps.apple.com/en/app/bear-markdown-notes/id1091189122                        | MAS in-app                                            |
 | BetterTouchTool                 |        | https://folivora.ai/                                                                  |                                                       |
 | Black Light                     | ✅     | https://michelf.ca/projects/black-light/                                              |                                                       |
@@ -24,12 +25,15 @@ Apps
 | ColorSlurp                      | 💭    | https://apps.apple.com/us/app/colorslurp/id1287239339                                 | RevenueCat                                            |
 | Counterparts Lite               | 💭    | https://michelf.ca/logiciels/counterparts-lite/                                       |                                                       |
 | Desktop Curtain                 | 💭    | https://manytricks.com/desktopcurtain/                                                |                                                       |
+| Dinoki                          | ✅     | https://dinoki.ai/                                                                    |                                                       |
 | Downie                          | ✅     | https://software.charliemonroe.net/downie/                                            |                                                       |
 | Drive Genius                    | ❌     | https://www.prosofteng.com/drive-genius-mac-protection-software                       | license server check + obfuscation                    |
 | DropDMG                         | ✅     | https://c-command.com/dropdmg/                                                        |                                                       |
+| Elmedia Player                  | ✅     | https://mac.eltima.com/video-player.html                                              |                                                       |
 | Eon                             | ✅     | https://software.charliemonroe.net/eon/                                               |                                                       |
 | Eon Timer                       | ✅     | https://software.charliemonroe.net/eon/                                               |                                                       |
 | EpubKit                         | ✅     | https://epubkit.app/                                                                  |                                                       |
+| Feeder                          | ✅     | https://reinventedsoftware.com/feeder/                                                |                                                       |
 | FileBot                         |        | https://www.filebot.net/download.html                                                 | Java, don't know how to patch (already decrypted)     |
 | FileUtils                       | 💭    | https://fileutils.com                                                                 | Finder permissions issue                              |
 | Final Draft 13                  | ✅     | https://www.finaldraft.com/                                                           |                                                       |
@@ -39,13 +43,13 @@ Apps
 | Gamma Control                   | ✅     | https://michelf.ca/projects/gamma-control/                                            |                                                       |
 | Goodnotes 6                     | ❌     | https://apps.apple.com/en/app/goodnotes-6/id1444383602                                |                                                       |
 | Happy Wallpaper                 | ✅     | https://apps.apple.com/us/app/paper-live-wallpapers/id1518518216                      |                                                       |
-| Hazel                           | 💭    | https://www.noodlesoft.com/manual/hazel/hazel-overview/                               | Partial                                               |
+| Hazel                           | ✅     | https://www.noodlesoft.com/manual/hazel/hazel-overview/                               | Partial                                               |
 | Hopper Disassembler             |        | https://www.hopperapp.com/                                                            |                                                       |
 | HoudahGeo                       | ✅     | https://www.houdah.com/houdahGeo/                                                     |                                                       |
 | Infuse                          | ✅     | https://apps.apple.com/en/app/infuse/id1136220934                                     | MAS in-app                                            |
 | Kaleidoscope                    | ✅     | https://kaleidoscope.app/                                                             |                                                       |
 | Kerlig                          | ✅     | https://www.kerlig.com/                                                               |                                                       |
-| KeyKeeper                       | 💭    | https://bundlehunt.com/deal/keykeeper                                                 | license server check                                  |
+| KeyKeeper                       | ✅    | https://bundlehunt.com/deal/keykeeper                                                 |                                                       |
 | Keymou                          | 💭    | https://manytricks.com/keymou/                                                        |                                                       |
 | Leech                           | ✅     | https://manytricks.com/leech/                                                         |                                                       |
 | Ligon X                         |        | https://www.peterborgapps.com/lingon/                                                 |                                                       |
@@ -64,6 +68,7 @@ Apps
 | MWeb                            | ✅     | https://www.mweb.im                                                                   |                                                       |
 | Name Mangler                    | 💭    | https://manytricks.com/namemangler/                                                   |                                                       |
 | NotesCmdr                       | 💢    | https://smallest.app/notescmdr/                                                       | paid app                                              |
+| OmniReader                      | ✅     | https://apps.apple.com/us/app/omnireader-pro-doc-read/id1510511137                    |                                                       |
 | One Markdown                    | ✅     | https://macserialjunkie.com/forum/viewtopic.php?p=1240588&hilit=One+Markdown#p1240588 |                                                       |
 | OpenIn 4                        |        | https://loshadki.app/openin4/                                                         | lemonsqueezy license server check                     |
 | Optimage                        | ❌     | https://optimage.app                                                                  |                                                       |
@@ -71,6 +76,7 @@ Apps
 | Paddle                          | ✅     | https://www.paddle.com/                                                               |                                                       |
 | Pano2VR                         |        | https://ggnome.com/pano2vr-download/                                                  | not fully bypassed..                                  |
 | Paragraphic                     | ✅     | https://paragraphic.design/                                                           |                                                       |
+| PDF Expert                      | ✅     | https://pdfexpert.com/                                                                |                                                       |
 | Permute                         | ✅     | https://software.charliemonroe.net/permute/                                           |                                                       |
 | PhotoZoom Pro 9                 |        | https://www.benvista.com/photozoompro                                                 |                                                       |
 | Pinegrow                        | ✅     | https://pinegrow.com                                                                  |                                                       |
@@ -79,6 +85,7 @@ Apps
 | Plasticity                      | ❌     | https://www.plasticity.xyz/                                                           | compiled JavaScript files                             |
 | PopClip                         | ✅     | https://www.popclip.app/                                                              |                                                       |
 | Posterino                       |        | https://apps.apple.com/us/app/posterino-pro-photo-collage/id1568451594                | RevenueCat                                            |
+| ProFind                         | ✅     | https://www.zeroonetwenty.com/profind/index.html                                      |                                                       |
 | Promptly                        | ✅     | https://getpromptly.app/                                                              |                                                       |
 | PTGui                           |        | https://ptgui.com/info/stitching_software_for_macos.html                              |                                                       |
 | PureRawv                        |        | https://shop.dxo.com/en/dxo-pureraw-5.html                                            |                                                       |
@@ -101,8 +108,9 @@ Apps
 | Sparkle                         | ❌     | https://makeitsparkle.co/                                                             | RevenueCat + account + Stripe                         |
 | Stay                            |        | https://cordlessdog.com/stay/                                                         |                                                       |
 | Storyspace                      | ✅     | https://www.eastgate.com/storyspace/                                                  |                                                       |
-| Strongbox                       | ✅     | https://strongboxsafe.com/                                                            | Issue with repacking                                  |
+| Strongbox                       | ✅     | https://strongboxsafe.com/                                                            |                                                       |
 | Substage                        |        | https://selkie.design/substage/                                                       | https://github.com/4qzs/4qzs/issues/1                 |
+| Swift Publisher 5               | ✅     | https://www.swiftpublisher.com/                                                       |                                                       |
 | Syphon                          |        | https://roeybiran.com/apps/syphon/                                                    | gumroad license server check                          |
 | Termius                         | ✅     | https://termius.com/                                                                  |                                                       |
 | Tinderbox                       | ✅     | https://eastgate.com/Tinderbox/                                                       |                                                       |
@@ -111,6 +119,7 @@ Apps
 | Two Point Museum                | 💢    | https://store.steampowered.com/app/2185060/Two_Point_Museum/                          | steam app                                             |
 | Usher                           | 💭    | https://manytricks.com/usher/                                                         |                                                       |
 | Vellum                          | ✅     | https://vellum.pub                                                                    |                                                       |
+| VoiceInk                        | ✅     | https://tryvoiceink.com/                                                              |                                                       |
 | VRAMPro                         | ✅     | https://vrampro.com                                                                   |                                                       |
 | Wipr 2                          | ✅     | https://kaylees.site/wipr2.html                                                       |                                                       |
 | Witch                           | 💭    | https://manytricks.com/witch/                                                         |                                                       |
