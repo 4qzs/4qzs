@@ -7,6 +7,9 @@ Apps
 | Access                          | ❌     | https://apps.apple.com/en/app/access-passwords-companion/id6469049274                 | MAS in-app purchase                                   |
 | Aeon Timeline                   | ✅     | https://www.aeontimeline.com                                                          |                                                       |
 | Agenda                          | ❌     | https://apps.apple.com/en/app/agenda-notes-meets-calendar/id1287445660                | MAS in-app purchase, repacking issues, partial unlock |
+| Aiarty Image Enhancer           | ✅     | https://www.aiarty.com/ai-image-enhancer/                                             |                                                       |
+| Aiarty Image Matting            | ✅     | https://www.aiarty.com/ai-image-matting/                                              |                                                       |
+| Aiarty Video Enhancer           | ✅     | https://www.aiarty.com/ai-video-enhancer/                                             |                                                       |
 | Alfred                          |        | https://www.alfredapp.com/                                                            |                                                       |
 | Aperty                          | ✅     | https://apps.apple.com/en/app/aperty-pro-portrait-editor/id6720751010                 |                                                       |
 | App Cleaner                     | ✅     | https://nektony.com/mac-app-cleaner                                                   |                                                       |
@@ -22,6 +25,7 @@ Apps
 | BoltAI                          | ✅     | https://boltai.com/latest                                                             |                                                       |
 | ChatWise                        | 💢    | https://apps.apple.com/us/app/chatwise-chat-with-ask-ai/id6448783663                  | paid app                                              |
 | Click2Minimize                  | 💢    | https://idemfactor.gumroad.com/l/click2minimize                                       | paid app                                              |
+| CodeCounter                     | ✅     | https://codecounter.app/                                                              |                                                       |
 | ColorSlurp                      | 💭    | https://apps.apple.com/us/app/colorslurp/id1287239339                                 | RevenueCat                                            |
 | Counterparts Lite               | 💭    | https://michelf.ca/logiciels/counterparts-lite/                                       |                                                       |
 | Desktop Curtain                 | 💭    | https://manytricks.com/desktopcurtain/                                                |                                                       |
@@ -38,7 +42,7 @@ Apps
 | FileUtils                       | 💭    | https://fileutils.com                                                                 | Finder permissions issue                              |
 | Final Draft 13                  | ✅     | https://www.finaldraft.com/                                                           |                                                       |
 | Findbar                         |        | https://roeybiran.com/apps/finbar/                                                    | gumroad license server check                          |
-| Folder Preview                  | ❌     | https://apps.apple.com/us/app/folder-preview/id6698876601                             | Issue with repacking                                  |
+| Folder Preview                  | ✅     | https://apps.apple.com/us/app/folder-preview/id6698876601                             |                                                       |
 | Framous                         |        | https://apps.apple.com/us/app/framous-screenshot-frames/id6636520519                  | RevenueCat                                            |
 | Gamma Control                   | ✅     | https://michelf.ca/projects/gamma-control/                                            |                                                       |
 | Goodnotes 6                     | ❌     | https://apps.apple.com/en/app/goodnotes-6/id1444383602                                |                                                       |
@@ -49,7 +53,7 @@ Apps
 | Infuse                          | ✅     | https://apps.apple.com/en/app/infuse/id1136220934                                     | MAS in-app                                            |
 | Kaleidoscope                    | ✅     | https://kaleidoscope.app/                                                             |                                                       |
 | Kerlig                          | ✅     | https://www.kerlig.com/                                                               |                                                       |
-| KeyKeeper                       | ✅    | https://bundlehunt.com/deal/keykeeper                                                 |                                                       |
+| KeyKeeper                       | ✅     | https://bundlehunt.com/deal/keykeeper                                                 |                                                       |
 | Keymou                          | 💭    | https://manytricks.com/keymou/                                                        |                                                       |
 | Leech                           | ✅     | https://manytricks.com/leech/                                                         |                                                       |
 | Ligon X                         |        | https://www.peterborgapps.com/lingon/                                                 |                                                       |
