@@ -25,3 +25,7 @@ You can check the current status of supported applications in the [Status.md](./
 - [Tormac.org](https://tormac.org/)
 - [Macxzb.com](https://macxzb.com/)
 - [Macoshome.com](https://macoshome.com/)
+- [Macbox.app](macbox.app)
+- [macapp.org.cn](macapp.org.cn)
+- [XMac.App](https://xmac.app/)
+- [MacBeek.com](macbeek.com)
