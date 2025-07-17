@@ -50,6 +50,7 @@ Apps
 | FileUtils                       | 💭    | https://fileutils.com                                                                 | Finder permissions issue                              |
 | Final Draft 13                  | ✅     | https://www.finaldraft.com/                                                           |                                                       |
 | Findbar                         |        | https://roeybiran.com/apps/finbar/                                                    | gumroad license server check                          |
+| FiveNotes                       | ✅     | https://www.apptorium.com/fivenotes                                                   |                                                       |
 | Folder Preview                  | ✅     | https://apps.apple.com/app/folder-preview/id6698876601                                |                                                       |
 | ForkLift                        | ✅     | https://binarynights.com/                                                             |                                                       |
 | Framous                         |        | https://apps.apple.com/app/framous-screenshot-frames/id6636520519                     | RevenueCat                                            |
@@ -108,6 +109,7 @@ Apps
 | PureRawv                        |        | https://shop.dxo.com/en/dxo-pureraw-5.html                                            |                                                       |
 | QR Factory                      |        | https://apps.apple.com/app/qr-factory-3/id1609285899                                  | RevenueCat                                            |
 | Radiant Photo 2                 |        | https://radiantimaginglabs.com/radiant-photo-2/                                       |                                                       |
+| Repo Prompt                     | ✅     | https://repoprompt.com/                                                               |                                                       |
 | RCU                             | ✅     | https://www.davisr.me/projects/rcu/                                                   |                                                       |
 | Red Stripe                      | 💭    | https://michelf.ca/software/red-stripe/                                               |                                                       |
 | Resolutionator                  | 💭    | https://manytricks.com/resolutionator/                                                |                                                       |
@@ -123,6 +125,7 @@ Apps
 | SecuritySpy 6                   |        | https://bensoftware.com/securityspy/download.html                                     |                                                       |
 | Shotomatic                      | ✅     | https://www.shotomatic.com                                                            |                                                       |
 | Sidebar                         | ✳️   | https://sidebarapp.net                                                                | Alamofire network lib, doesn't use completion handler |
+| SideNotes                       | ✅     | https://www.apptorium.com/sidenotes                                                   |                                                       |
 | Sim Daltonism                   | 💭    | https://michelf.ca/projects/sim-daltonism/                                            |                                                       |
 | Sparkle                         | ❌     | https://makeitsparkle.co/                                                             | RevenueCat + account + Stripe                         |
 | Stay                            |        | https://cordlessdog.com/stay/                                                         |                                                       |
