@@ -16,6 +16,7 @@ Apps
 | Alfred                          |        | https://www.alfredapp.com/                                                            |                                                       |
 | Aperty                          | ✅     | https://apps.apple.com/en/app/aperty-pro-portrait-editor/id6720751010                 |                                                       |
 | App Cleaner                     | ✅     | https://nektony.com/mac-app-cleaner                                                   |                                                       |
+| Araxis Merge                    | ✅     | https://www.araxis.com/index.en                                                       |                                                       |
 | Archimedes                      | ✅     | https://furnacecreek.org/archimedes/                                                  |                                                       |
 | Arclite Pro                     | ✅     | https://etheriar.com/arclite-pro                                                      |                                                       |
 | aText                           | ✳️   | https://www.trankynam.com/atext/                                                      | .NET + Dotfuscator                                    |
@@ -35,6 +36,7 @@ Apps
 | Dinoki                          | ✅     | https://dinoki.ai/                                                                    |                                                       |
 | Disk Cleaner Lite               | ✅     | https://apps.apple.com/app/disk-clean/id1407593317                                    |                                                       |
 | djay Pro                        | ✅     | https://apps.apple.com/app/djay-dj-app-ai-mixer/id450527929                           |                                                       |
+| DMG Canvas                      | ✅     | https://www.araelium.com/dmgcanvas                                                    |                                                       |
 | Downie                          | ✅     | https://software.charliemonroe.net/downie/                                            |                                                       |
 | Drive Genius                    | ❌     | https://www.prosofteng.com/drive-genius-mac-protection-software                       | license server check + obfuscation                    |
 | DropDMG                         | ✅     | https://c-command.com/dropdmg/                                                        |                                                       |
@@ -111,6 +113,7 @@ Apps
 | PTGui                           |        | https://ptgui.com/info/stitching_software_for_macos.html                              |                                                       |
 | PullTube                        | ✅     | https://mymixapps.com/pulltube                                                        |                                                       |
 | PureRawv                        |        | https://shop.dxo.com/en/dxo-pureraw-5.html                                            |                                                       |
+| Querious                        | ✅     | https://www.araelium.com/querious                                                     |                                                       |
 | QR Factory                      |        | https://apps.apple.com/app/qr-factory-3/id1609285899                                  | RevenueCat                                            |
 | Radiant Photo 2                 |        | https://radiantimaginglabs.com/radiant-photo-2/                                       |                                                       |
 | Repo Prompt                     | ✅     | https://repoprompt.com/                                                               |                                                       |
@@ -123,6 +126,7 @@ Apps
 | Rottenwood                      | ✅     | https://software.charliemonroe.net/rottenwood/                                        |                                                       |
 | ScanScore 3                     |        | https://scan-score.com/en/shop/scanscore-3-professional/                              | License server check                                  |
 | Scene Maestro                   |        | https://sceni.ca/en/scene-maestro/                                                    |                                                       |
+| Screenflick                     | ✅     | https://www.araelium.com/screenflick-mac-screen-recorder                              |                                                       |
 | Screenshot Studio               |        | https://appstorescreenshotstudio.com/                                                 |                                                       |
 | ScreenSnapAI                    | ✅     | https://screensnap.ai/releasenotes/                                                   |                                                       |
 | Scrutiny                        | ✅     | https://peacockmedia.software/mac/scrutiny/                                           |                                                       |
@@ -135,7 +139,7 @@ Apps
 | Stay                            |        | https://cordlessdog.com/stay/                                                         |                                                       |
 | Storyspace                      | ✅     | https://www.eastgate.com/storyspace/                                                  |                                                       |
 | Strongbox                       | ✅     | https://strongboxsafe.com/                                                            |                                                       |
-| Substage                        |        | https://selkie.design/substage/                                                       | https://github.com/4qzs/4qzs/issues/1                 |
+| Substage                        | ✅     | https://selkie.design/substage/                                                       |                                                       |
 | Swift Publisher 5               | ✅     | https://www.swiftpublisher.com/                                                       |                                                       |
 | Syphon                          |        | https://roeybiran.com/apps/syphon/                                                    | gumroad license server check                          |
 | Textual7                        | ✅     | https://www.codeux.com/textual/                                                       |                                                       |
