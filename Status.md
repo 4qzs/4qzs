@@ -54,6 +54,7 @@ Apps
 | Folder Preview                  | ✅     | https://apps.apple.com/app/folder-preview/id6698876601                                |                                                       |
 | ForkLift                        | ✅     | https://binarynights.com/                                                             |                                                       |
 | Framous                         |        | https://apps.apple.com/app/framous-screenshot-frames/id6636520519                     | RevenueCat                                            |
+| Galaxy Modeler                  | ✅     | https://www.datensen.com/galaxy-modeler-for-graphql.html                              |                                                       |
 | Gamma Control                   | ✅     | https://michelf.ca/projects/gamma-control/                                            |                                                       |
 | Goodnotes 6                     | ❌     | https://apps.apple.com/en/app/goodnotes-6/id1444383602                                |                                                       |
 | Happy Wallpaper                 | ✅     | https://apps.apple.com/app/paper-live-wallpapers/id1518518216                         |                                                       |
@@ -69,14 +70,17 @@ Apps
 | Ligon X                         |        | https://www.peterborgapps.com/lingon/                                                 |                                                       |
 | Live Wallpaper                  | ✅     | https://apps.apple.com/app/live-wallpaper-4k-uhd/id1456235760                         |                                                       |
 | Lumariver Profile Designer 2    | ✅     | https://lumariver.com                                                                 |                                                       |
+| Luna Modeler                    | ✅     | https://www.datensen.com/luna-modeler-for-relational-databases.html                   |                                                       |
 | MarginNote 4                    | ✅     | https://www.marginnote.com                                                            |                                                       |
 | Marked 2                        | ✅     | https://marked2app.com                                                                |                                                       |
 | Master PDF Editor               | ✅     | https://code-industry.net/                                                            |                                                       |
 | Mellel                          | ✅     | https://mellel.com/                                                                   |                                                       |
 | Menuwhere                       | 💭    | https://manytricks.com/menuwhere/                                                     |                                                       |
+| Meteor Modeler                  | ✅     | https://www.datensen.com/meteor-modeler-for-orm.html                                  |                                                       |
 | MindMac                         | ✅     | https://mindmac.app/                                                                  |                                                       |
 | Monodraw                        | ✅     | https://monodraw.helftone.com                                                         |                                                       |
 | Moom                            | 💭    | https://manytricks.com/moom/                                                          |                                                       |
+| Moon Modeler                    | ✅     | https://www.datensen.com/moon-modeler-for-databases.html                              |                                                       |
 | Movavi                          |        | https://www.movavi.com/mac.html                                                       |                                                       |
 | Mp3tag                          | ✅     | https://mp3tag.app                                                                    |                                                       |
 | Msty                            | ✅     | https://msty.app/                                                                     |                                                       |
@@ -134,6 +138,7 @@ Apps
 | Substage                        |        | https://selkie.design/substage/                                                       | https://github.com/4qzs/4qzs/issues/1                 |
 | Swift Publisher 5               | ✅     | https://www.swiftpublisher.com/                                                       |                                                       |
 | Syphon                          |        | https://roeybiran.com/apps/syphon/                                                    | gumroad license server check                          |
+| Textual7                        | ✅     | https://www.codeux.com/textual/                                                       |                                                       |
 | Termius                         | ✅     | https://termius.com/                                                                  |                                                       |
 | Tinderbox                       | ✅     | https://eastgate.com/Tinderbox/                                                       |                                                       |
 | Time Sink                       | 💭    | https://manytricks.com/timesink/                                                      |                                                       |
