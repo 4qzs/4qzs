@@ -41,11 +41,13 @@ Apps
 | Drive Genius                    | ❌     | https://www.prosofteng.com/drive-genius-mac-protection-software                       | license server check + obfuscation                    |
 | DropDMG                         | ✅     | https://c-command.com/dropdmg/                                                        |                                                       |
 | Dropzone 4                      | ✅     | https://aptonic.com/                                                                  |                                                       |
+| eBook Converter Bundle          | ✅     | https://www.ebook-converter.com/ebook-converter-bundle.htm                            |                                                       |
 | EditReady                       | ✅     | https://hedge.co/products/editready                                                   |                                                       |
 | Elmedia Player                  | ✅     | https://mac.eltima.com/video-player.html                                              |                                                       |
 | Eon                             | ✅     | https://software.charliemonroe.net/eon/                                               |                                                       |
 | Eon Timer                       | ✅     | https://software.charliemonroe.net/eon/                                               |                                                       |
 | EpubKit                         | ✅     | https://epubkit.app/                                                                  |                                                       |
+| ePub DRM Removal                | ✅     | https://www.ebook-converter.com/epub-drm-removal.htm                                  |                                                       |
 | EazyDraw                        | ✅     | https://apps.apple.com/app/eazydraw/id412624365                                       |                                                       |
 | Feeder                          | ✅     | https://reinventedsoftware.com/feeder/                                                |                                                       |
 | FileBot                         |        | https://www.filebot.net/download.html                                                 | Java, don't know how to patch (already decrypted)     |
@@ -68,6 +70,7 @@ Apps
 | Kerlig                          | ✅     | https://www.kerlig.com/                                                               |                                                       |
 | KeyKeeper                       | ✅     | https://bundlehunt.com/deal/keykeeper                                                 |                                                       |
 | Keymou                          | 💭    | https://manytricks.com/keymou/                                                        |                                                       |
+| Kindle DRM Removal              | ✅     | https://www.ebook-converter.com/kindle-drm-removal.htm                                |                                                       |
 | Leech                           | ✅     | https://manytricks.com/leech/                                                         |                                                       |
 | Ligon X                         |        | https://www.peterborgapps.com/lingon/                                                 |                                                       |
 | Live Wallpaper                  | ✅     | https://apps.apple.com/app/live-wallpaper-4k-uhd/id1456235760                         |                                                       |
@@ -98,6 +101,7 @@ Apps
 | Paddle                          | ✅     | https://www.paddle.com/                                                               |                                                       |
 | Pano2VR                         |        | https://ggnome.com/pano2vr-download/                                                  | not fully bypassed..                                  |
 | Paragraphic                     | ✅     | https://paragraphic.design/                                                           |                                                       |
+| PDF ePub DRM Removal            | ✅     | https://www.ebook-converter.com/drm-removal-bundle.htm                                |                                                       |
 | PDF Expert                      | ✅     | https://pdfexpert.com/                                                                |                                                       |
 | Permute                         | ✅     | https://software.charliemonroe.net/permute/                                           |                                                       |
 | Photomator                      | ✅     | https://www.pixelmator.com/photomator/                                                |                                                       |
@@ -123,6 +127,7 @@ Apps
 | RightFont                       | ✅     | https://rightfontapp.com/download                                                     |                                                       |
 | Rocket Pro                      | ✅     | https://matthewpalmer.net/rocket/                                                     |                                                       |
 | Rocketsim                       |        | https://apps.apple.com/app/rocketsim-for-xcode-simulator/id1504940162                 | RevenueCat                                            |
+| RootsMagic                      | ✅     | https://rootsmagic.com/RootsMagic/                                                    |                                                       |
 | Rottenwood                      | ✅     | https://software.charliemonroe.net/rottenwood/                                        |                                                       |
 | ScanScore 3                     |        | https://scan-score.com/en/shop/scanscore-3-professional/                              | License server check                                  |
 | Scene Maestro                   |        | https://sceni.ca/en/scene-maestro/                                                    |                                                       |
@@ -151,6 +156,7 @@ Apps
 | Usher                           | 💭    | https://manytricks.com/usher/                                                         |                                                       |
 | Vellum                          | ✅     | https://vellum.pub                                                                    |                                                       |
 | VideoProc Converter AI          | ✅     | https://www.videoproc.com                                                             |                                                       |
+| VitalSource Downloader          | ✅     | https://www.ebook-converter.com/vitalsource-downloader.htm                            |                                                       |
 | VoiceInk                        | ✅     | https://tryvoiceink.com/                                                              |                                                       |
 | VRAMPro                         | ✅     | https://vrampro.com                                                                   |                                                       |
 | WebArch                         | ✅     | https://peacockmedia.software/mac/webarch/                                            |                                                       |
