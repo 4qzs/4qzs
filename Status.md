@@ -19,6 +19,7 @@ Apps
 | Araxis Merge                    | ✅     | https://www.araxis.com/index.en                                                       |                                                       |
 | Archimedes                      | ✅     | https://furnacecreek.org/archimedes/                                                  |                                                       |
 | Arclite Pro                     | ✅     | https://etheriar.com/arclite-pro                                                      |                                                       |
+| Astro Gold                      | ✅     | https://www.astrogold.io/get-astro-gold/for-macos/                                    |                                                       |
 | aText                           | ✳️   | https://www.trankynam.com/atext/                                                      | .NET + Dotfuscator                                    |
 | AutoCAD                         | ✅     | https://www.autodesk.com/products/autocad/overview                                    |                                                       |
 | Bartender5                      | ✅     | https://www.macbartender.com/Bartender5/                                              |                                                       |
@@ -124,6 +125,7 @@ Apps
 | RCU                             | ✅     | https://www.davisr.me/projects/rcu/                                                   |                                                       |
 | Red Stripe                      | 💭    | https://michelf.ca/software/red-stripe/                                               |                                                       |
 | Resolutionator                  | 💭    | https://manytricks.com/resolutionator/                                                |                                                       |
+| RewriteBar                      | ✳️   | https://rewritebar.com/                                                               | Alamofire network lib                                 |
 | RightFont                       | ✅     | https://rightfontapp.com/download                                                     |                                                       |
 | Rocket Pro                      | ✅     | https://matthewpalmer.net/rocket/                                                     |                                                       |
 | Rocketsim                       |        | https://apps.apple.com/app/rocketsim-for-xcode-simulator/id1504940162                 | RevenueCat                                            |
