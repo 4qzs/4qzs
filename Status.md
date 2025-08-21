@@ -85,6 +85,7 @@ Apps
 | Meteor Modeler                  | ✅     | https://www.datensen.com/meteor-modeler-for-orm.html                                  |                                                       |
 | MindMac                         | ✅     | https://mindmac.app/                                                                  |                                                       |
 | Monodraw                        | ✅     | https://monodraw.helftone.com                                                         |                                                       |
+| Mountain Duck                   | ✅     | https://mountainduck.io/                                                              |                                                       |
 | Moom                            | 💭    | https://manytricks.com/moom/                                                          |                                                       |
 | Moon Modeler                    | ✅     | https://www.datensen.com/moon-modeler-for-databases.html                              |                                                       |
 | Movavi                          |        | https://www.movavi.com/mac.html                                                       |                                                       |
@@ -113,6 +114,7 @@ Apps
 | Plasticity                      | ❌     | https://www.plasticity.xyz/                                                           | compiled JavaScript files                             |
 | PopClip                         | ✅     | https://www.popclip.app/                                                              |                                                       |
 | Posterino                       |        | https://apps.apple.com/app/posterino-pro-photo-collage/id1568451594                   | RevenueCat                                            |
+| Pro Media Tools                 | ✅     | https://www.digitalrebellion.com/promedia/                                            |                                                       |
 | ProFind                         | ✅     | https://www.zeroonetwenty.com/profind/index.html                                      |                                                       |
 | Promptly                        | ✅     | https://getpromptly.app/                                                              |                                                       |
 | PTGui                           |        | https://ptgui.com/info/stitching_software_for_macos.html                              |                                                       |
