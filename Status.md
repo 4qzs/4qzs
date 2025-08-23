@@ -29,10 +29,20 @@ Apps
 | Bloom                           | ✅     | https://bloomapp.club/                                                                |                                                       |
 | BoltAI                          | ✅     | https://boltai.com/latest                                                             |                                                       |
 | ChatWise                        | 💢    | https://apps.apple.com/app/chatwise-chat-with-ask-ai/id6448783663                     | paid app                                              |
+| CheatEngine                     | ✅     | https://cheatengine.org/                                                              |                                                       |
 | Click2Minimize                  | 💢    | https://idemfactor.gumroad.com/l/click2minimize                                       | paid app                                              |
 | CodeCounter                     | ✅     | https://codecounter.app/                                                              |                                                       |
 | ColorSlurp                      | 💭    | https://apps.apple.com/app/colorslurp/id1287239339                                    | RevenueCat                                            |
 | Counterparts Lite               | 💭    | https://michelf.ca/logiciels/counterparts-lite/                                       |                                                       |
+| Decipher Backup Browser         | ✅     | https://deciphertools.com/decipher-backup-browser.html                                |                                                       |
+| Decipher Backup Repair          | ✅     | https://deciphertools.com/download-decipher-backup-repair.html                        |                                                       |
+| Decipher Chat                   | ✅     | https://deciphertools.com/decipher-chat.html                                          |                                                       |
+| Decipher Insta Export           | ✅     | https://deciphertools.com/decipher-insta-export.html                                  |                                                       |
+| Decipher Messenger Export       | ✅     | https://deciphertools.com/decipher-messenger-export.html                              |                                                       |
+| Decipher Screen Time            | ✅     | https://deciphertools.com/decipher-screen-time.html                                   |                                                       |
+| Decipher TextMessage            | ✅     | https://deciphertools.com/decipher-textmessage.html                                   |                                                       |
+| Decipher Twit-DM Export         | ✅     | https://deciphertools.com/decipher-twit-dm-export.html                                |                                                       |
+| Decipher VoiceMail              | ✅     | https://deciphertools.com/decipher-voicemail.html                                     |                                                       |
 | Desktop Curtain                 | 💭    | https://manytricks.com/desktopcurtain/                                                |                                                       |
 | Dinoki                          | ✅     | https://dinoki.ai/                                                                    |                                                       |
 | Disk Cleaner Lite               | ✅     | https://apps.apple.com/app/disk-clean/id1407593317                                    |                                                       |
